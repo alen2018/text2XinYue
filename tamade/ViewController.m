@@ -23,6 +23,9 @@
     lab.text = @"骄傲快点发觉";
     [self.view addSubview:lab];
     
+    
+    NSLog(@"测试看你信不信");
+    
 }
 
 - (void)didReceiveMemoryWarning {
